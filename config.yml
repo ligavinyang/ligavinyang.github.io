@@ -1,18 +1,18 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://ligavinyang.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
+homepage: 'https://ligavinyang.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
-copyright: "2023 GuangzhengLi All rights reserved"
+copyright: "2023 LIYANG All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "Li Yang"
+  email: "ligavinyang@gmail.com"
 menu:
   main:
     - name: Blog
@@ -36,7 +36,7 @@ menu:
 params:
   brand: HOME
   avatarURL: /images/avatar.png
-  author: Hugo Ladder
+  author: LIYANG
   authorDescription: A clean, fast hugo theme focused on Reading
   info: Ladder is a clean, simple but beautiful theme with awesome features
   favicon: /images/avatar.png
@@ -62,7 +62,7 @@ params:
       qr: https://storage.guangzhengli.com/images/weixin_sponsors.jpeg
   comments:
     giscus:
-      enable: true
+      enable: false
       repo: guangzhengli/hugo-ladder-exampleSite
       repo_id: R_kgDOHyVOjg
       category: Announcements
